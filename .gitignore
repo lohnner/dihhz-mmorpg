@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+node_modules/
+.sites-runtime/
+*.zip
+*.log
+steam-assets.json
+assets/*-sources.json
